@@ -4,7 +4,7 @@
 It applies machine learning models to tourism data to solve key business problems using regression and classification techniques.
 ---
 
-## 📌 Project Objectives
+## Project Objectives
 
 - Predict revenue from a customer using regression models
 - Predict whether a customer will return (churn analysis)
@@ -14,14 +14,14 @@ It applies machine learning models to tourism data to solve key business problem
 
 ---
 
-## 📊 Dataset Description
+## Dataset Description
 
 - **Source**: [Kaggle: Tourism & Hospitality Industry Dataset](https://www.kaggle.com/datasets/smithmurphy/tourism-and-hospitality-industry-analysis-dataset)
 - This dataset includes global tourism metrics such as customer satisfaction, eco-tourism revenue, hotel occupancy, and more.
 
 ---
 
-## 🔧 Tools and Libraries Used
+## Tools and Libraries Used
 
 - Python (Google Colab)
 - Pandas, NumPy
