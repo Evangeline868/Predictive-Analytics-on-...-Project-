@@ -30,11 +30,10 @@ Using data from global tourism and hospitality metrics, I am interested in:
 - Python (Google Colab)
 - `pandas`, `numpy`, `seaborn`, `matplotlib`
 - `scikit-learn`, `xgboost`
-- GitHub for version control and presentation
+- Github
 ---
 
 ## How to Run This Project
-
 1. Open the notebook in Google Colab using the link below:
    [🔗 Open Colab Notebook](https://colab.research.google.com/drive/13jBga0mskFeY6M4gKEQc_OMDmhQqihtT?usp=sharing)
 
@@ -48,18 +47,9 @@ Using data from global tourism and hospitality metrics, I am interested in:
 
 ---
 
-## 📎 Project Files
-
-- `/notebooks` → Colab `.ipynb` file
-- `/report` → Final report in PDF or Markdown format
-- `/visualizations` → Plots and charts for EDA and modeling
-- `.gitignore` → Python environment & OS exclusions
-
----
-
 ## 👩‍💻 Author
 
-- **Name**: [Your Full Name]
+- **Name**: [Huirui Evangeline Eve Song]
 - **Course**: ISOM 835 – Predictive Analytics and Machine Learning
 - **Instructor**: Dr. Hasan Arslan
 
