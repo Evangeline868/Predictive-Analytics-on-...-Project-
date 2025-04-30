@@ -1,6 +1,6 @@
 # Tourism & Hospitality Industry – Predictive Analytics Project
 
-This repository contains the final project for ISOM 835: Predictive Analytics and Machine Learning (Suffolk University). 
+- This repository contains the final project for ISOM 835: Predictive Analytics and Machine Learning (Suffolk University). 
 It applies machine learning models to tourism data to solve key business problems using regression and classification techniques.
 ---
 
