@@ -36,7 +36,7 @@ Using data from global tourism and hospitality metrics, I am interested in:
 ## How to Run This Project
 
 1. Open the notebook in Google Colab using the link below:
-   [🔗 Open Colab Notebook]https://colab.research.google.com/drive/13jBga0mskFeY6M4gKEQc_OMDmhQqihtT?usp=sharing
+   [🔗 Open Colab Notebook](https://colab.research.google.com/drive/13jBga0mskFeY6M4gKEQc_OMDmhQqihtT?usp=sharing)
 
 2. Upload the CSV file (`Tourism_Hospitality_Industry_Analysis.csv`) to the Colab environment
 
