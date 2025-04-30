@@ -47,8 +47,7 @@ Using data from global tourism and hospitality metrics, I am interested in:
 
 ---
 
-## 👩‍💻 Author
-
+## Author
 - **Name**: [Huirui Evangeline Eve Song]
 - **Course**: ISOM 835 – Predictive Analytics and Machine Learning
 - **Instructor**: Dr. Hasan Arslan
