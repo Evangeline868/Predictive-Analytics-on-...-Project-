@@ -1,59 +1,66 @@
 # Tourism & Hospitality Industry – Predictive Analytics Project
 
 - This repository contains the final project for ISOM 835: Predictive Analytics and Machine Learning (Suffolk University). 
-It applies machine learning models to tourism data to solve key business problems using regression and classification techniques.
+It applies machine learning models to tourism data to solve real-world business problems using regression and classification techniques.
 ---
 
 ## Project Objectives
-
-- Predict revenue from a customer using regression models
-- Predict whether a customer will return (churn analysis)
-- Classify the category of hotel booking (luxury, midrange, budget)
-- Compare predictive models including Lasso, Decision Tree, Gradient Boosting, and XGBoost
-- Interpret results using visualizations and model evaluation metrics
-
+- Independently handle data preprocessing and modeling tasks
+- Apply predictive models and evaluate their performance
+- Interpret and communicate results effectively
+- Reflect on model impact, interpretability, and ethical implications
+- Develop a portfolio-ready GitHub project
 ---
 
-## Dataset Description
-
-- **Source**: [Kaggle: Tourism & Hospitality Industry Dataset](https://www.kaggle.com/datasets/smithmurphy/tourism-and-hospitality-industry-analysis-dataset)
-- This dataset includes global tourism metrics such as customer satisfaction, eco-tourism revenue, hotel occupancy, and more.
-
+##  What This Project Aims to Accomplish
+Using data from global tourism and hospitality metrics, I am interested in:
+- Predict tourism revenue based on key economic and service factors
+- Predict customer return (churn) based on satisfaction and infrastructure
+- Predict hotel category based on price, region, and visitor behavior
 ---
 
-## Tools and Libraries Used
+## Dataset
+
+- Source: [Kaggle – Tourism and Hospitality Industry Dataset](https://www.kaggle.com/datasets/smithmurphy/tourism-and-hospitality-industry-analysis-dataset)
+- 500 records with over 20 features across geographic, economic, and service dimensions
+---
+
+##  Tools & Libraries Used
 
 - Python (Google Colab)
-- Pandas, NumPy
-- Scikit-learn
-- XGBoost
-- Seaborn & Matplotlib
+- `pandas`, `numpy`, `seaborn`, `matplotlib`
+- `scikit-learn`, `xgboost`
+- GitHub for version control and presentation
+---
+
+## How to Run This Project
+
+1. Open the notebook in Google Colab using the link below:
+   [🔗 Open Colab Notebook]https://colab.research.google.com/drive/13jBga0mskFeY6M4gKEQc_OMDmhQqihtT?usp=sharing
+
+2. Upload the CSV file (`Tourism_Hospitality_Industry_Analysis.csv`) to the Colab environment
+
+3. Run cells from top to bottom to reproduce results:
+   - Data cleaning & preprocessing
+   - EDA with visualizations
+   - Predictive modeling with 3 business questions
+   - Performance evaluation and confusion matrices
 
 ---
 
-## 🚀 How to Run This Project
+## 📎 Project Files
 
-1. Open the Colab notebook here: [📓 View on Google Colab](https://colab.research.google.com/drive/13jBga0mskFeY6M4gKEQc_OMDmhQqihtT?usp=sharing)
-2. Upload the CSV dataset: `Tourism_Hospitality_Industry_Analysis.csv`
-3. Run each code cell step-by-step
-4. View visualizations, model results, and interpretation
-
----
-
-## 📄 Final Report
-
-You can read the final project report [here](Final_Report.pdf)
+- `/notebooks` → Colab `.ipynb` file
+- `/report` → Final report in PDF or Markdown format
+- `/visualizations` → Plots and charts for EDA and modeling
+- `.gitignore` → Python environment & OS exclusions
 
 ---
 
-## 🖼 Visualizations
+## 👩‍💻 Author
 
-Key charts and visualizations are stored in the `visualizations/` folder.
-
----
-
-## 📁 Repository Structure
-
-
+- **Name**: [Your Full Name]
+- **Course**: ISOM 835 – Predictive Analytics and Machine Learning
+- **Instructor**: Dr. Hasan Arslan
 
 
