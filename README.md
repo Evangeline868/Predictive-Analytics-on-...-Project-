@@ -33,7 +33,7 @@ It applies machine learning models to tourism data to solve key business problem
 
 ## 🚀 How to Run This Project
 
-1. Open the Colab notebook here: [📓 View on Google Colab](https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK_HERE)
+1. Open the Colab notebook here: [📓 View on Google Colab](https://colab.research.google.com/drive/13jBga0mskFeY6M4gKEQc_OMDmhQqihtT?usp=sharing)
 2. Upload the CSV dataset: `Tourism_Hospitality_Industry_Analysis.csv`
 3. Run each code cell step-by-step
 4. View visualizations, model results, and interpretation
