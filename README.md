@@ -1,60 +1,59 @@
-# Predictive Analytics in the Tourism & Hospitality Industry  
-**ISOM 835 – Predictive Analytics and Machine Learning (Spring 2025)**  
-**Suffolk University | Instructor: Dr. Hasan Arslan**
+# Tourism & Hospitality Industry – Predictive Analytics Project
 
-## Project Summary
+This repository contains the final project for ISOM 835: Predictive Analytics and Machine Learning (Suffolk University). 
+It applies machine learning models to tourism data to solve key business problems using regression and classification techniques.
+---
 
-This project applies predictive analytics and machine learning models to a real-world dataset from the global tourism and hospitality industry. Using advanced Python tools, we aim to explore customer behavior, predict hotel revenue, customer return likelihood, and classify hotel categories based on spending, satisfaction, and service quality.
+## 📌 Project Objectives
 
-## Objectives
+- Predict revenue from a customer using regression models
+- Predict whether a customer will return (churn analysis)
+- Classify the category of hotel booking (luxury, midrange, budget)
+- Compare predictive models including Lasso, Decision Tree, Gradient Boosting, and XGBoost
+- Interpret results using visualizations and model evaluation metrics
 
-- Clean and preprocess real-world tourism industry data
-- Develop and evaluate multiple predictive models
-- Answer key business questions relevant to hotel revenue and customer retention
-- Visualize model performance and dataset structure
-- Reflect on model interpretability and ethical implications
+---
 
-## Dataset Description
+## 📊 Dataset Description
 
-- **Source**: [Kaggle Dataset - Tourism & Hospitality Industry Analysis](https://www.kaggle.com/datasets/smithmurphy/tourism-and-hospitality-industry-analysis-dataset)
-- **Size**: 500 rows × 23 columns
-- **Features Include**: tourist satisfaction, eco-tourism revenue, hotel ratings, country/city, spending behavior, infrastructure scores, etc.
+- **Source**: [Kaggle: Tourism & Hospitality Industry Dataset](https://www.kaggle.com/datasets/smithmurphy/tourism-and-hospitality-industry-analysis-dataset)
+- This dataset includes global tourism metrics such as customer satisfaction, eco-tourism revenue, hotel occupancy, and more.
 
-## Tools & Libraries Used
+---
 
-- **Languages**: Python 3
-- **Platforms**: Google Colab + GitHub
-- **Libraries**:  
-  - `pandas`, `numpy` – data cleaning and wrangling  
-  - `scikit-learn` – modeling and evaluation  
-  - `xgboost` – advanced boosting models  
-  - `seaborn`, `matplotlib` – data visualization  
+## 🔧 Tools and Libraries Used
 
-## Business Questions
+- Python (Google Colab)
+- Pandas, NumPy
+- Scikit-learn
+- XGBoost
+- Seaborn & Matplotlib
 
-1. **What will be the tourism revenue from a given customer segment?**  
-   - Modeled as a regression task.
+---
 
-2. **Will a customer return (or churn) based on satisfaction and experience?**  
-   - Binary classification.
+## 🚀 How to Run This Project
 
-3. **What type of hotel (budget, luxury, midrange) does a booking fall into?**  
-   - Multiclass classification.
+1. Open the Colab notebook here: [📓 View on Google Colab](https://colab.research.google.com/drive/YOUR_NOTEBOOK_LINK_HERE)
+2. Upload the CSV dataset: `Tourism_Hospitality_Industry_Analysis.csv`
+3. Run each code cell step-by-step
+4. View visualizations, model results, and interpretation
 
-##  Predictive Models Applied
+---
 
-Each question uses at least 3 models. Examples include:
-- `Lasso Regression`
-- `Decision Tree`
-- `Gradient Boosting`
-- `XGBoost`
-- `Naive Bayes`
-- `Random Forest`
+## 📄 Final Report
 
-Models were evaluated using:
-- **Regression Metrics**: RMSE, R²
-- **Classification Metrics**: Accuracy, F1 Score, ROC AUC
-- **Visuals**: confusion matrices, residual plots, heatmaps
+You can read the final project report [here](Final_Report.pdf)
+
+---
+
+## 🖼 Visualizations
+
+Key charts and visualizations are stored in the `visualizations/` folder.
+
+---
+
+## 📁 Repository Structure
+
 
 
 
