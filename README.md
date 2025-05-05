@@ -13,10 +13,11 @@ It applies machine learning models to tourism data to solve real-world business 
 ---
 
 ##  What This Project Aims to Accomplish
-Using data from global tourism and hospitality metrics, I am interested in:
-- Predict tourism revenue based on key economic and service factors
-- Predict customer return (churn) based on satisfaction and infrastructure
-- Predict hotel category based on price, region, and visitor behavior
+Using data from global tourism and hospitality metrics, I want to address three business questions:
+- Can we accurately predict tourism revenue based on travel behavior and hotel characteristics?
+- Can we predict customer return based on their experience?
+- Can we identify the purpose of visit based on traveler patterns?
+
 ---
 
 ## Dataset
