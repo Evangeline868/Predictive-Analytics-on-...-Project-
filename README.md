@@ -49,7 +49,7 @@ Using data from global tourism and hospitality metrics, I want to address three 
 ---
 
 ## Author
-- **Name**: [Huirui Evangeline Eve Song]
+- **Name**: [Huirui Evangeline Mercy Song]
 - **Course**: ISOM 835 – Predictive Analytics and Machine Learning
 - **Instructor**: Dr. Hasan Arslan
 
